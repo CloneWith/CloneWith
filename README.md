@@ -16,14 +16,14 @@
 Languages:
 
 - 💻 Learning & using: **Java**, **Python**, **C++** (Prior OI experience), **Shell script**
-- 🔍 Interest: **C#**, **Kotlin**, **Go**, **HTML**, **CSS**
-- 🛠️ Assisted: **Markdown**, **XML & YAML**
+- 🔍 Interested: **C#**, **Kotlin**, **Go**, **HTML**, **CSS**
+- 🛠️ Assistance: **Markdown**, **XML & YAML**
 
 Hobbies:
 
 - 🎮 Games: **[osu!](https://osu.ppy.sh)**, **[Colobot](https://colobot.info)** and more
-- 🌐 Translation: Several open-source projects, [osu! wiki](https://github.com/ppy/osu-wiki)
-- Except fixing computers 😡
+- 🌐 I18N: Several open-source projects, [osu! wiki](https://github.com/ppy/osu-wiki), etc. A full list can be found [here](https://clonewith.github.io/translation/log)
+- ⚙️ Sort of UI/UX designing
 
 More on my [GitHub page](https://clonewith.github.io)!
 
