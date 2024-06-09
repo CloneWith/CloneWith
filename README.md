@@ -2,13 +2,6 @@
 
 👋 Welcome to my home on GitHub!
 
-> [!IMPORTANT]
-> Due to lack of time and available devices, all development activities are currently limited.
-> 
-> Time: Now ~ **June 9th**
->
-> Detail: Basic interactions
-
 ![CloneWith's GitHub stats](https://github-readme-stats.vercel.app/api?username=CloneWith&show_icons=true)
 
 ### Projects
