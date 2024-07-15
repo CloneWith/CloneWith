@@ -7,7 +7,8 @@
 ### Projects
 
 - [opsu!](https://github.com/clonewith/opsu): an open-source osu! client, forked from [@itdelatrisu](https://github.com/itdelatrisu)
-- [BeatmapService](https://github.com/clonewith/beatmapservice): a simple beatmap downloader for Android, forked from [@EdrowsLuo](https://github.com/EdrowsLuo)
+- [BeatmapService](https://github.com/clonewith/beatmapservice): a simple beatmap downloader for Android, forked from [@EdrowsLuo](https://github.com/EdrowsLuo
+- More to be added...
 
 ### Skills
 
@@ -15,13 +16,13 @@
 
 Languages:
 
-- 💻 Learning & using: **Java**, **Python**, **C++** (Prior OI experience), **Shell script**
-- 🔍 Interested: **C#**, **Kotlin**, **Go**, **HTML**, **CSS**
+- 💻 Learning & using: **Kotlin**, **Java**, **Python**, **C#**, **JavaScript**, **C++** (Prior OI experience), **Shell script**
+- 🔍 Interested: **Go**, **HTML**, **CSS**
 - 🛠️ Assistance: **Markdown**, **XML & YAML**
 
 Hobbies:
 
-- 🎮 Games: **[osu!](https://osu.ppy.sh)**, **[Colobot](https://colobot.info)** and more
+- 🎮 Games: **[osu!](https://osu.ppy.sh)**, **[Colobot](https://colobot.info)**, **Cytus** and more
 - 🌐 I18N: Several open-source projects, [osu! wiki](https://github.com/ppy/osu-wiki), etc. A full list can be found [here](https://clonewith.github.io/translation/log)
 - ⚙️ Sort of UI/UX designing
 
