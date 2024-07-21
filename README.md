@@ -9,8 +9,9 @@
 
 ### Projects
 
-- [opsu!](https://github.com/clonewith/opsu): an open-source osu! client, forked from [@itdelatrisu](https://github.com/itdelatrisu)
-- [BeatmapService](https://github.com/clonewith/beatmapservice): a simple beatmap downloader for Android, forked from [@EdrowsLuo](https://github.com/EdrowsLuo
+- [opsu!](https://github.com/clonewith/opsu): an open-source osu! client, forked from [@itdelatrisu](https://github.com/itdelatrisu/opsu)
+- [BeatmapService](https://github.com/clonewith/beatmapservice): a simple beatmap downloader for Android, forked from [@EdrowsLuo](https://github.com/EdrowsLuo/BeatmapService)
+- [osu!typer](https://github.com/clonewith/ruleset-typer): a test ruleset for osu!, forked from [@peppy](https://github.com/peppy/ruleset-typer)
 - More to be added...
 
 ### Skills
