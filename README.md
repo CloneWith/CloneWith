@@ -3,7 +3,11 @@
 👋 Welcome to my home on GitHub!
 
 > [!IMPORTANT]
-> Online time: **GMT+8** 8:30 - 0:00
+> Online time: **GMT+8**
+> - Weekdays: 18:30 - 23:00
+> - Weekends & Special Holidays: 8:00 - 23:00
+> 
+> The end time may differ based on schedules and other random factors.
 
 ![CloneWith's GitHub stats](https://github-readme-stats.vercel.app/api?username=CloneWith&show_icons=true)
 
