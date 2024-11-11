@@ -13,8 +13,9 @@
 
 ### Projects
 
+- [osu!ATRI](https://github.com/osu-atri): a collection of projects, from coding to osu!wiki translation.
+- [osu!](https://github.com/clonewith/osu): a fork of the [upstream repository](https://github.com/ppy/osu), focused on better UI and easier tournament management.
 - [opsu!](https://github.com/clonewith/opsu): an open-source osu! client, forked from [@itdelatrisu](https://github.com/itdelatrisu/opsu)
-- [BeatmapService](https://github.com/clonewith/beatmapservice): a simple beatmap downloader for Android, forked from [@EdrowsLuo](https://github.com/EdrowsLuo/BeatmapService)
 - [osu!typer](https://github.com/clonewith/ruleset-typer): a test ruleset for osu!, forked from [@peppy](https://github.com/peppy/ruleset-typer)
 - More to be added...
 
@@ -24,7 +25,7 @@
 
 Languages:
 
-- 💻 Learning & using: **Kotlin**, **Java**, **Python**, **C#**, **JavaScript**, **C++** (Prior OI experience), **Shell script**
+- 💻 Learning & using: **C#**, **C++**, **Kotlin & Java**, **Python**, **JavaScript**, **Shell script**
 - 🔍 Interested: **Go**, **HTML**, **CSS**
 - 🛠️ Assistance: **Markdown**, **XML & YAML**
 
